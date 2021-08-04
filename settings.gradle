@@ -8,3 +8,6 @@ dependencyResolutionManagement {
 }
 rootProject.name = "MyArch"
 include ':app'
+include ':common-ui'
+include ':core-data'
+include ':core-presentation'
